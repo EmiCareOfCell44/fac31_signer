@@ -1,7 +1,7 @@
 # fac31_signer
 Código para firmar una factura en Formato Facturae. Se utilizan las bibliotecas desarrolladas por el MITYC.
 
-Es necesario de disponer de un certificado de identificación personal en un almacén pfx o p12 emitido por una entidad reconocida por la Agancia Tributaria para que el validador de validez a la firma.
+Es necesario de disponer de un certificado de identificación personal en un almacén pfx o p12 emitido por una entidad reconocida por la Agancia Tributaria para que el validador dé validez a la firma.
 
 ###Versión de máquina virtual con la que se ha probado:
 
